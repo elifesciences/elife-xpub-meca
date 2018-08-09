@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifest SYSTEM "manifest.dtd">
+<manifest version="1" xmlns="">
+    <item id="xpub-123" type="manuscript" submission-item-id="custom001" version="0">
+        <description>This is the main manuscript</description>
+        <file-order>1</file-order>
+        <instance media-type="application/pdf" href="manuscript.pdf"/>
+    </item>
+</manifest>

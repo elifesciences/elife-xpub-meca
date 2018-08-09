@@ -1,0 +1,30 @@
+
+<submission-metadata>
+   <processing-instructions>
+       <processing-instruction type="discussed-previously">
+           <note>Mike said I should submit this</note>
+       </processing-instruction>
+       <processing-instruction type="considered-previously" article-id="e123"/>
+       <processing-instruction type="cosubmission" article-title="That other paper"/>
+   </processing-instructions>
+   <suggestions>
+       <suggestion type="senior-editor" person-id="123"/>
+       <suggestion type="reviewing-editor" person-id="234"/>
+       <suggestion type="reviewer">
+           <name>Alice Smith</name>
+           <email>alice@smith.com</email>
+       </suggestion>
+   </suggestions>
+   <exclusions>
+       <exclusion type="senior-editor" person-id="345">
+           <reason>Just because</reason>
+       </exclusion>
+       <exclusion type="reviewer">
+           <name>Bob Smith</name>
+           <email>bob@smith.com</email>
+       </exclusion>
+        <reason>These people work with me.</reason>
+   </exclusions>
+</submission-metadata>
+
+

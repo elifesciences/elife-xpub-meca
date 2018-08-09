@@ -1,0 +1,60 @@
+<transfer>
+  <source>
+    <service-provider>
+      <name>eJournalPress</name>
+      	<contact role="Project Manager">
+    		<contact-name>
+          <surname>Smith</surname>
+          <given-names>John</given-names>
+        </contact-name>
+          <email>jsmith@ejournalpress.com</email>
+          <phone>301-555-1212</phone>
+        </contact>
+    </service-provider>
+    <publication type="journal">
+      <title>The Journal of the American Medical Association</title>
+      <acronym>JAMA</acronym>
+      <contact role="Managing Editor">
+        <name>
+          <surname>Smith</surname>
+          <given-names>Sally</given-names>
+        </name>
+        <email>ssmith@jama.com</email>
+        <phone>301-555-1212</phone>
+      </contact>
+    </publication>
+  </source>
+  <destination>
+    <service-provider>
+      <name>Highwire</name>
+      <contact role="Project Manager">
+        <name>
+          <surname>Rogers</surname>
+          <given-names>John</given-names>
+        </name>
+        <email>jrogers@highwire.com</email>
+        <phone>444-555-1212</phone>
+      </contact>
+    </service-provider>
+    <publication type="preprint-server">
+      <title>BioArxiv</title>
+      <acronym>BioArxiv</acronym>
+      <contact role="Managing Editor">
+        <name>
+          <surname>Rogers</surname>
+          <given-names>Sally</given-names>
+        </name>
+        <email>srogers@bioarxiv.com</email>
+        <phone>301-555-1212</phone>
+      </contact>
+    </publication>
+    <security>
+      <authentication-code>abdasa-13123-abae</authentication-code>
+    </security>
+  </destination>
+  <processing-instructions>
+    <instruction sequence="1">Verify XML First</instruction>
+    <instruction sequence="2">Load XML</instruction>
+    <comments>Free form comments</comments>
+  </processing-instructions>
+</transfer>
