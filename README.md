@@ -5,7 +5,7 @@ Examples of MECA files to be used for importing to eJP
 ## Useful links
 
 * [Manuscript Exchange](https://www.manuscriptexchange.org/)
-* [MECA-JATS Presentation, PDF](file:///home/peter/Documents/MECA_JATS-Con_2018_for_distribution.pdf)
+* [MECA-JATS Presentation, PDF](https://www.manuscriptexchange.org/wp-content/uploads/2018/06/MECA_JATS-Con_2018_for_distribution.pdf)
 * [Media Types]( https://en.wikipedia.org/wiki/Media_type)
 
 ## Examples
