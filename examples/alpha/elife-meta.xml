@@ -1,13 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<?xml version="1.0" encoding="UTF-8" ?>
 <submission-metadata>
    <processing-instructions>
        <processing-instruction type="discussed-previously">
            <note>Mike said I should submit this</note>
        </processing-instruction>
-       <processing-instruction type="considered-previously" article-id="e123"/>
+       <processing-instruction type="previously-discussed" note="We previously talked about this."/>
+       <processing-instruction type="previously-submitted" note="We previously submitted this."/>
        <processing-instruction type="cosubmission" article-title="That other paper"/>
    </processing-instructions>
    <suggestions>
+       <conflict>false</conflict>
        <suggestion type="senior-editor" person-id="123"/>
        <suggestion type="reviewing-editor" person-id="234"/>
        <suggestion type="reviewer">
@@ -26,5 +30,3 @@
         <reason>These people work with me.</reason>
    </exclusions>
 </submission-metadata>
-
-
