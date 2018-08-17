@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<submission>
   <id>5dc28433-bf6e-4395-a07b-d9916a52f98d</id>
   <meta>
     <title>The role of
@@ -10,22 +10,20 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <subjects>cell-biology</subjects>
     <articleType>research-article</articleType>
   </meta>
-  <type>manuscript</type>
-  <files>
-    <url>uploads/5dc28433-bf6e-4395-a07b-d9916a52f98d/1ba12dff7808b8ee6776b923d505f9ec.pdf</url>
-    <type>MANUSCRIPT_SOURCE</type>
-    <filename>Test Manuscript.pdf</filename>
-  </files>
   <teams>
     <role>suggestedSeniorEditor</role>
     <teamMembers>
       <meta>
         <elifePersonId>ffecc910</elifePersonId>
+        <name>SE1</name>
+        <email>se1@here.com</email>
       </meta>
     </teamMembers>
     <teamMembers>
       <meta>
         <elifePersonId>8d7e57b3</elifePersonId>
+        <name>SE2</name>
+        <email>se2@here.com</email>
       </meta>
     </teamMembers>
   </teams>
@@ -34,6 +32,8 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>1e9e661f</elifePersonId>
+        <name>OSE1</name>
+        <email>ose1@here.com</email>
       </meta>
     <teamMembers/>
   </teams>
@@ -42,11 +42,15 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>d628fc59</elifePersonId>
+        <name>SRE1</name>
+        <email>sre1@here.com</email>
       </meta>
     </teamMembers>
     <teamMembers>
       <meta>
         <elifePersonId>5134d708</elifePersonId>
+        <name>SRE2</name>
+        <email>sre2@here.com</email>
       </meta>
     </teamMembers>
   </teams>
@@ -55,6 +59,8 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>4f651dd4</elifePersonId>
+        <name>ORE1</name>
+        <email>ore1@here.com</email>
       </meta>
     </teamMembers>
   </teams>
@@ -92,8 +98,8 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     </teamMembers>
     <teamMembers>
       <meta>
-        <name>Haydon Mcphee</name>
-        <email>hmcphee@here.com</email>
+        <name>Haydon Öéé</name>
+        <email>oee@here.com</email>
       </meta>
     </teamMembers>
   </teams>
@@ -108,9 +114,7 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
       </alias>
     </teamMembers>
   </teams>
-<!-- <status>QA</status> -->
   <createdBy>9dceb415-0480-40a2-85a3-801e383cfd10</createdBy>
- <!-- <coverLetter>&lt;p&gt;&lt;b&gt;How will your work make others in the field think differently and move the field forward?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;lk smadlkjsldkjfsldkjfsldk kjjk j jk j jj j j&lt;/p&gt;&lt;p&gt;&lt;b&gt;How does your work relate to the current literature on the topic?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Who do you consider to be the most relevant audience for this work?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Have you made clear in the letter what the work has and has not achieved?&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</coverLetter> -->
   <cosubmission>Title of the Second Paper</cosubmission>
   <cosubmission>Title of the Third Paper</cosubmission>
   <opposedReviewers>
@@ -123,4 +127,4 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
   <suggestionsConflict>true</suggestionsConflict>
   <opposedSeniorEditorsReason>They are biased</opposedSeniorEditorsReason>
   <opposedReviewingEditorsReason>They are really biased</opposedReviewingEditorsReason>
-</root>
+</submission>
