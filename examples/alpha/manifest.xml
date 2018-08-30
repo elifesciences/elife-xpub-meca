@@ -23,7 +23,7 @@
     <item id="xpub-126" type="metadata" submission-item-id="custom004" version="0">
         <description>This is the submission meta data</description>
         <file-order>1</file-order>
-        <instance media-type="application/xml" href="elife-meta.pdf"/>
+        <instance media-type="application/xml" href="elife-meta.xml"/>
     </item>
 
     <item id="xpub-127" type="transfer" submission-item-id="custom005" version="0">

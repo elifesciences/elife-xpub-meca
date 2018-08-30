@@ -35,7 +35,7 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
         <name>OSE1</name>
         <email>ose1@here.com</email>
       </meta>
-    <teamMembers/>
+    </teamMembers>
   </teams>
   <teams>
     <role>suggestedReviewingEditor</role>
@@ -104,6 +104,13 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     </teamMembers>
   </teams>
   <teams>
+    <role>opposedReviewers</role>
+    <meta>
+      <name>Wesley Case</name>
+      <email>wcase@here.com</email>
+    </meta>
+  </teams>
+  <teams>
     <role>author</role>
     <teamMembers>
       <alias>
@@ -117,11 +124,6 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
   <createdBy>9dceb415-0480-40a2-85a3-801e383cfd10</createdBy>
   <cosubmission>Title of the Second Paper</cosubmission>
   <cosubmission>Title of the Third Paper</cosubmission>
-  <opposedReviewers>
-    <name>Wesley Case</name>
-    <email>wcase@here.com</email>
-    <reason>He is a direct competitor.</reason>
-  </opposedReviewers>
   <previouslyDiscussed>Discussed with Dr. Bob who said I should submit</previouslyDiscussed>
   <previouslySubmitted>Paper title</previouslySubmitted>
   <suggestionsConflict>true</suggestionsConflict>
