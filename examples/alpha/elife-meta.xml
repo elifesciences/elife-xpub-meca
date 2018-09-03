@@ -8,21 +8,28 @@ and
 <italic>Pitx3</italic>
 in muscle stem cells gives new insights into P38α MAP kinase and redox regulation of muscle regeneration</title>
     <subjects>cell-biology</subjects>
-    <articleType>research-article</articleType>
+    <articleType>Research Article</articleType>
+    <articleTypeId>1</articleTypeId>
   </meta>
   <teams>
     <role>suggestedSeniorEditor</role>
     <teamMembers>
       <meta>
         <elifePersonId>ffecc910</elifePersonId>
-        <name>SE1</name>
+        <name>Senior E1</name>
+        <firstName>Senior</firstName>
+        <lastName>E1</lastName>
+        <institution>Uni1</institution>
         <email>se1@here.com</email>
       </meta>
     </teamMembers>
     <teamMembers>
       <meta>
         <elifePersonId>8d7e57b3</elifePersonId>
-        <name>SE2</name>
+        <name>Senior E2</name>
+        <firstName>Senior</firstName>
+        <lastName>E2</lastName>
+        <institution>Uni2</institution>
         <email>se2@here.com</email>
       </meta>
     </teamMembers>
@@ -32,7 +39,10 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>1e9e661f</elifePersonId>
-        <name>OSE1</name>
+        <name>Opposed SE1</name>
+        <firstName>Opposed</firstName>
+        <lastName>SE1</lastName>
+        <institution>Company1</institution>
         <email>ose1@here.com</email>
       </meta>
     </teamMembers>
@@ -42,14 +52,20 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>d628fc59</elifePersonId>
-        <name>SRE1</name>
+        <name>Senior RE1</name>
+        <firstName>Senior</firstName>
+        <lastName>RE1</lastName>
+        <institution>Uni1</institution>
         <email>sre1@here.com</email>
       </meta>
     </teamMembers>
     <teamMembers>
       <meta>
         <elifePersonId>5134d708</elifePersonId>
-        <name>SRE2</name>
+        <name>Senior RE2</name>
+        <firstName>Senior</firstName>
+        <lastName>RE2</lastName>
+        <institution>Uni3</institution>
         <email>sre2@here.com</email>
       </meta>
     </teamMembers>
@@ -59,7 +75,10 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
     <teamMembers>
       <meta>
         <elifePersonId>4f651dd4</elifePersonId>
-        <name>ORE1</name>
+        <name>Opposed RE1</name>
+        <firstName>Opposed</firstName>
+        <lastName>RE1</lastName>
+        <institution>Uni4</institution>
         <email>ore1@here.com</email>
       </meta>
     </teamMembers>
@@ -105,20 +124,22 @@ in muscle stem cells gives new insights into P38α MAP kinase and redox regulati
   </teams>
   <teams>
     <role>opposedReviewers</role>
-    <meta>
-      <name>Wesley Case</name>
-      <email>wcase@here.com</email>
-    </meta>
+    <teamMembers>
+      <meta>
+        <name>Wesley Case</name>
+        <email>wcase@here.com</email>
+      </meta>
+    </teamMembers>
   </teams>
   <teams>
     <role>author</role>
     <teamMembers>
-      <alias>
+      <meta>
         <aff>Institute of Life</aff>
         <email>diversemix@mailinator.com</email>
         <lastName>Hooper</lastName>
         <firstName>Peter</firstName>
-      </alias>
+      </meta>
     </teamMembers>
   </teams>
   <createdBy>9dceb415-0480-40a2-85a3-801e383cfd10</createdBy>
