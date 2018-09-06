@@ -3,15 +3,16 @@
 
 <article>
     <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc"></journal-id>
+            <journal-id journal-id-type="publisher"></journal-id>
+            <issn></issn>
+            <publisher>
+            <publisher-name></publisher-name>
+            </publisher>
+        </journal-meta>
         <article-meta>
             <article-id pub-id-type="manuscript">5dc28433-bf6e-4395-a07b-d9916a52f98d</article-id>
-
-            <related-article related-article-type="companion">
-                <article-title>Title of the Second Paper</article-title>
-            </related-article>
-            <related-article related-article-type="companion">
-                <article-title>Title of the Third Paper</article-title>
-            </related-article>
 
             <article-categories>
                 <subj-group subj-group-type="article-type">
@@ -26,7 +27,7 @@
             </article-categories>
 
             <title-group>
-                <article-title>The role of <i>Pitx2</i> and <i>Pitx3</i> in muscle stem cells gives new insights into P38α MAP kinase and redox regulation of muscle regeneration</article-title>
+                <article-title>The role of &lt;i&gt;Pitx2&lt;/i&gt; and &lt;i&gt;Pitx3&lt;/i&gt; in muscle stem cells gives new insights into P38α MAP kinase and redox regulation of muscle regeneration</article-title>
             </title-group>
 
             <contrib-group content-type="authors">
@@ -50,7 +51,6 @@
 
             <contrib-group content-type="potential-senior-editors">
                 <contrib contrib-type="suggested-senior-editor">
-                    <contrib-id contrib-id-type="elife">ffecc910</contrib-id>
                     <name>
                         <surname>E1</surname>
                         <given-names>Senior</given-names>
@@ -59,7 +59,6 @@
                     <xref ref-type="aff" rid="aff3"/>
                 </contrib>
                 <contrib contrib-type="suggested-senior-editor">
-                    <contrib-id contrib-id-type="elife">8d7e57b3</contrib-id>
                     <name>
                         <surname>E2</surname>
                         <given-names>Senior</given-names>
@@ -69,7 +68,6 @@
                 </contrib>
 
                 <contrib contrib-type="opposed-senior-editor">
-                    <contrib-id contrib-id-type="elife">1e9e661f</contrib-id>
                     <name>
                         <surname>SE1</surname>
                         <given-names>Opposed</given-names>
@@ -81,7 +79,6 @@
 
             <contrib-group content-type="potential-reviewing-editors">
                 <contrib contrib-type="suggested-reviewing-editor">
-                    <contrib-id contrib-id-type="elife">d628fc59</contrib-id>
                     <name>
                         <surname>RE1</surname>
                         <given-names>Senior</given-names>
@@ -90,7 +87,6 @@
                     <xref ref-type="aff" rid="aff3"/>
                 </contrib>
                 <contrib contrib-type="suggested-reviewing-editor">
-                    <contrib-id contrib-id-type="elife">5134d708</contrib-id>
                     <name>
                         <surname>RE2</surname>
                         <given-names>Senior</given-names>
@@ -100,7 +96,6 @@
                 </contrib>
 
                 <contrib contrib-type="opposed-reviewing-editor">
-                    <contrib-id contrib-id-type="elife">4f651dd4</contrib-id>
                     <name>
                         <surname>SE1</surname>
                         <given-names>Opposed</given-names>
@@ -183,6 +178,23 @@
                 <institution>Uni4</institution>
             </aff>
 
+            <author-notes>
+            <fn><p></p></fn>
+            </author-notes>
+
+            <pub-date>
+            <day></day>
+            <month></month>
+            <year></year>
+            </pub-date>
+
+            <related-article related-article-type="companion">
+                <article-title>Title of the Second Paper</article-title>
+            </related-article>
+            <related-article related-article-type="companion">
+                <article-title>Title of the Third Paper</article-title>
+            </related-article>
+
             <custom-meta-group>
                 <custom-meta>
                     <meta-name>opposed-reviewing-editor-comment</meta-name>
@@ -209,6 +221,7 @@
                     <meta-value>9dceb415-0480-40a2-85a3-801e383cfd10</meta-value>
                 </custom-meta>
             </custom-meta-group>
+
         </article-meta>
     </front>
 </article>
