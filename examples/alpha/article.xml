@@ -197,16 +197,8 @@
 
             <custom-meta-group>
                 <custom-meta>
-                    <meta-name>opposed-reviewing-editor-comment</meta-name>
-                    <meta-value>They are biased.</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>opposed-senior-editor-comment</meta-name>
-                    <meta-value>He is a direct competitor.</meta-value>
-                </custom-meta>
-                <custom-meta>
-                    <meta-name>suggestions-conflict</meta-name>
-                    <meta-value>true</meta-value>
+	                <meta-name>suggestions-conflict</meta-name>
+	                <meta-value>true</meta-value>
                 </custom-meta>
                 <custom-meta>
                     <meta-name>previously-discussed</meta-name>
