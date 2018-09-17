@@ -11,14 +11,12 @@
             <publisher-name></publisher-name>
             </publisher>
         </journal-meta>
+
         <article-meta>
             <article-id pub-id-type="manuscript">5dc28433-bf6e-4395-a07b-d9916a52f98d</article-id>
 
             <article-categories>
-                <subj-group subj-group-type="article-type">
-                    <subject>Research</subject>
-                </subj-group>
-                <subj-group subj-group-type="article-type-id">
+                <subj-group subj-group-type="article_type">
                     <subject>1</subject>
                 </subj-group>
                 <subj-group subj-group-type="keywords">
@@ -49,8 +47,8 @@
                 </contrib>
             </contrib-group>
 
-            <contrib-group content-type="potential-senior-editors">
-                <contrib contrib-type="suggested-senior-editor">
+            <contrib-group content-type="potential_senior_editors">
+                <contrib contrib-type="suggested_senior_editor">
                     <name>
                         <surname>E1</surname>
                         <given-names>Senior</given-names>
@@ -58,7 +56,7 @@
                     <email>se1@here.com</email>
                     <xref ref-type="aff" rid="aff3"/>
                 </contrib>
-                <contrib contrib-type="suggested-senior-editor">
+                <contrib contrib-type="suggested_senior_editor">
                     <name>
                         <surname>E2</surname>
                         <given-names>Senior</given-names>
@@ -67,7 +65,7 @@
                     <xref ref-type="aff" rid="aff4"/>
                 </contrib>
 
-                <contrib contrib-type="opposed-senior-editor">
+                <contrib contrib-type="opposed_senior_editor">
                     <name>
                         <surname>SE1</surname>
                         <given-names>Opposed</given-names>
@@ -77,8 +75,8 @@
                 </contrib>
             </contrib-group>
 
-            <contrib-group content-type="potential-reviewing-editors">
-                <contrib contrib-type="suggested-reviewing-editor">
+            <contrib-group content-type="potential_reviewing_editors">
+                <contrib contrib-type="suggested_reviewing_editor">
                     <name>
                         <surname>RE1</surname>
                         <given-names>Senior</given-names>
@@ -86,7 +84,7 @@
                     <email>sre1@here.com</email>
                     <xref ref-type="aff" rid="aff3"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewing-editor">
+                <contrib contrib-type="suggested_reviewing_editor">
                     <name>
                         <surname>RE2</surname>
                         <given-names>Senior</given-names>
@@ -95,7 +93,7 @@
                     <xref ref-type="aff" rid="aff6"/>
                 </contrib>
 
-                <contrib contrib-type="opposed-reviewing-editor">
+                <contrib contrib-type="opposed_reviewing_editor">
                     <name>
                         <surname>SE1</surname>
                         <given-names>Opposed</given-names>
@@ -105,54 +103,35 @@
                 </contrib>
             </contrib-group>
 
-            <contrib-group content-type="potential-reviewers">
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Sharples</surname>
-                        <given-names>Osian</given-names>
-                    </name>
+            <contrib-group content-type="potential_reviewers">
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Osian Sharples</name>
                     <email>osharples@here.com</email>
-                    <xref ref-type="aff" rid="aff3"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Sullivan</surname>
-                        <given-names>Geraint</given-names>
-                    </name>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Geraint Sullivan</name>
                     <email>gsullivan@here.com</email>
-                    <xref ref-type="aff" rid="aff2"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Webster</surname>
-                        <given-names>Rosie</given-names>
-                    </name>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Rosie Webster</name>
                     <email>rwebster@there.com</email>
-                    <xref ref-type="aff" rid="aff5"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Francis</surname>
-                        <given-names>Kareena</given-names>
-                    </name>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Kareena Francis</name>
                     <email>kfrancis@here.com</email>
-                    <xref ref-type="aff" rid="aff1"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Mcloughlin</surname>
-                        <given-names>Jennie</given-names>
-                    </name>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Jennie Mcloughlin</name>
                     <email>jmcloughline@here.com</email>
-                    <xref ref-type="aff" rid="aff7"/>
                 </contrib>
-                <contrib contrib-type="suggested-reviewer">
-                    <name>
-                        <surname>Öéé</surname>
-                        <given-names>Haydon</given-names>
-                    </name>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Haydon Öéé</name>
                     <email>oee@here.com</email>
-                    <xref ref-type="aff" rid="aff1"/>
+                </contrib>
+
+                <contrib contrib-type="opposed_reviewer">
+                    <name>Wesley Case</name>
+                    <email>wcase@here.com</email>
                 </contrib>
             </contrib-group>
 
@@ -197,8 +176,20 @@
 
             <custom-meta-group>
                 <custom-meta>
-	                <meta-name>suggestions-conflict</meta-name>
-	                <meta-value>true</meta-value>
+                    <meta-name>opposed-reviewing-editor-comment</meta-name>
+                    <meta-value>They are really biased.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>opposed-senior-editor-comment</meta-name>
+                    <meta-value>They are biased.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>opposed-reviewer-comment</meta-name>
+                    <meta-value>He is a direct competitor.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>suggestions-conflict</meta-name>
+                    <meta-value>true</meta-value>
                 </custom-meta>
                 <custom-meta>
                     <meta-name>previously-discussed</meta-name>
@@ -213,7 +204,6 @@
                     <meta-value>9dceb415-0480-40a2-85a3-801e383cfd10</meta-value>
                 </custom-meta>
             </custom-meta-group>
-
         </article-meta>
     </front>
 </article>
