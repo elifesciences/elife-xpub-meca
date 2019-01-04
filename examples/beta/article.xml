@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE article SYSTEM "JATS-journalpublishing1.dtd">
+
+<article>
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="pmc"></journal-id>
+            <journal-id journal-id-type="publisher"></journal-id>
+            <issn></issn>
+            <publisher>
+            <publisher-name></publisher-name>
+            </publisher>
+        </journal-meta>
+
+        <article-meta>
+            <article-id pub-id-type="manuscript">5dc28433-bf6e-4395-a07b-d9916a52f98d</article-id>
+
+            <article-categories>
+                <subj-group subj-group-type="article_type">
+                    <subject>1</subject>
+                </subj-group>
+                <subj-group subj-group-type="keywords">
+                    <subject>cell-biology</subject>
+                </subj-group>
+            </article-categories>
+
+            <title-group>
+                <article-title>The role of &lt;i&gt;Pitx2&lt;/i&gt; and &lt;i&gt;Pitx3&lt;/i&gt; in muscle stem cells gives new insights into P38α MAP kinase and redox regulation of muscle regeneration</article-title>
+            </title-group>
+
+            <contrib-group content-type="authors">
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Hooper</surname>
+                        <given-names>Peter</given-names>
+                    </name>
+                    <email>diversemix@mailinator.com</email>
+                    <xref ref-type="aff" rid="aff1"/>
+                </contrib>
+                <contrib contrib-type="submitter">
+                    <name>
+                        <surname>Smith</surname>
+                        <given-names>Joe</given-names>
+                    </name>
+                    <email>youraveragejoe@email.com</email>
+                    <xref ref-type="aff" rid="aff2"/>
+                </contrib>
+            </contrib-group>
+
+            <contrib-group content-type="potential_senior_editors">
+                <contrib contrib-type="suggested_senior_editor">
+                    <name>
+                        <surname>E1</surname>
+                        <given-names>Senior</given-names>
+                    </name>
+                    <email>se1@here.com</email>
+                    <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="suggested_senior_editor">
+                    <name>
+                        <surname>E2</surname>
+                        <given-names>Senior</given-names>
+                    </name>
+                    <email>se2@here.com</email>
+                    <xref ref-type="aff" rid="aff4"/>
+                </contrib>
+
+                <contrib contrib-type="opposed_senior_editor">
+                    <name>
+                        <surname>SE1</surname>
+                        <given-names>Opposed</given-names>
+                    </name>
+                    <email>ose1@here.com</email>
+                    <xref ref-type="aff" rid="aff5"/>
+                </contrib>
+            </contrib-group>
+
+            <contrib-group content-type="potential_reviewing_editors">
+                <contrib contrib-type="suggested_reviewing_editor">
+                    <name>
+                        <surname>RE1</surname>
+                        <given-names>Senior</given-names>
+                    </name>
+                    <email>sre1@here.com</email>
+                    <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="suggested_reviewing_editor">
+                    <name>
+                        <surname>RE2</surname>
+                        <given-names>Senior</given-names>
+                    </name>
+                    <email>sre2@here.com</email>
+                    <xref ref-type="aff" rid="aff6"/>
+                </contrib>
+
+                <contrib contrib-type="opposed_reviewing_editor">
+                    <name>
+                        <surname>SE1</surname>
+                        <given-names>Opposed</given-names>
+                    </name>
+                    <email>ore1@here.com</email>
+                    <xref ref-type="aff" rid="aff7"/>
+                </contrib>
+            </contrib-group>
+
+            <contrib-group content-type="potential_reviewers">
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Osian Sharples</name>
+                    <email>osharples@here.com</email>
+                </contrib>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Geraint Sullivan</name>
+                    <email>gsullivan@here.com</email>
+                </contrib>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Rosie Webster</name>
+                    <email>rwebster@there.com</email>
+                </contrib>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Kareena Francis</name>
+                    <email>kfrancis@here.com</email>
+                </contrib>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Jennie Mcloughlin</name>
+                    <email>jmcloughline@here.com</email>
+                </contrib>
+                <contrib contrib-type="suggested_reviewer">
+                    <name>Haydon Öéé</name>
+                    <email>oee@here.com</email>
+                </contrib>
+
+                <contrib contrib-type="opposed_reviewer">
+                    <name>Wesley Case</name>
+                    <email>wcase@here.com</email>
+                </contrib>
+            </contrib-group>
+
+            <aff id="aff1">
+                <institution>Institute of Life</institution>
+            </aff>
+            <aff id="aff2">
+                <institution>Mundane University</institution>
+            </aff>
+            <aff id="aff3">
+                <institution>Uni1</institution>
+            </aff>
+            <aff id="aff4">
+                <institution>Uni2</institution>
+            </aff>
+            <aff id="aff5">
+                <institution>Company1</institution>
+            </aff>
+            <aff id="aff6">
+                <institution>Uni3</institution>
+            </aff>
+            <aff id="aff7">
+                <institution>Uni4</institution>
+            </aff>
+
+            <author-notes>
+            <fn><p></p></fn>
+            </author-notes>
+
+            <pub-date>
+            <day></day>
+            <month></month>
+            <year></year>
+            </pub-date>
+
+            <related-article related-article-type="companion">
+                <article-title>Title of the Second Paper</article-title>
+            </related-article>
+            <related-article related-article-type="companion">
+                <article-title>Title of the Third Paper</article-title>
+            </related-article>
+
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>opposed-reviewing-editor-comment</meta-name>
+                    <meta-value>They are really biased.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>opposed-senior-editor-comment</meta-name>
+                    <meta-value>They are biased.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>opposed-reviewer-comment</meta-name>
+                    <meta-value>He is a direct competitor.</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>suggestions-conflict</meta-name>
+                    <meta-value>true</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>previously-discussed</meta-name>
+                    <meta-value>Discussed with Dr. Bob who said I should submit</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>previously-submitted</meta-name>
+                    <meta-value>Paper title</meta-value>
+                </custom-meta>
+                <custom-meta>
+                    <meta-name>created-by</meta-name>
+                    <meta-value>9dceb415-0480-40a2-85a3-801e383cfd10</meta-value>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front>
+</article>
