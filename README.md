@@ -12,8 +12,14 @@ Examples of MECA files to be used for importing to eJP
 
 All the examples are not packaged in a zip file, rather they are the individual files to make it easier to view and modify. Packaging can be done in the standard way.
 
+To see the difference between examples, run the following locally: `diff -r examples/alpha examples/beta`
+
 Below are the list of examples.
 
-### alpha
+### [beta](https://github.com/elifesciences/elife-xpub-meca/tree/master/examples/beta) (2019-04-01)
 
-This is the first example, which is meant to be a complete and valid example for a sunny-day test.
+- Adds support for supplementary files.
+
+### [alpha](https://github.com/elifesciences/elife-xpub-meca/tree/master/examples/alpha) (2018-09-18)
+
+- This is the first example, which is meant to be a complete and valid example for a sunny-day test.
